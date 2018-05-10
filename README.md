@@ -1,2 +1,2 @@
 # Finanças UFRN
-Repositório contendo análises financeiras referentes ao Instituto Metrópole Digital
+Repositório contendo análises financeiras referentes a Universidade Federal do Rio Grande do Norte
