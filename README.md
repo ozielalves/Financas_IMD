@@ -1,4 +1,4 @@
-# Finanças UFRN
+# UFRN Constructions's Finances
 
 ## Description
 Repository containing financial analyzes related to the Universidade Federal do Rio Grande do Norte. Done as asked by my professor at UFRN([UFRN](www.ufrn.br)).
