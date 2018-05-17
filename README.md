@@ -15,7 +15,7 @@ This Analysis was done using `Python 3.6`, make sure you have the same python ve
 
 ## Authorship
 
-Program developed by _Daniel Oliveira Guerra_ (*daniel.guerra13@hotmail.com*),  _Oziel Alves_ (*ozielalves@ufrn.edu.br*) and _Max Willian_ (**), 2018.1
+Program developed by _Daniel Oliveira Guerra_ (*daniel.guerra13@hotmail.com*),  _Oziel Alves_ (*ozielalves@ufrn.edu.br*) and _Max Willian_ (*maxwilliam780@gmail.com*), 2018.1
 
 &copy; IMD/UFRN 2018.
 
