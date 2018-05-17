@@ -15,12 +15,16 @@ This project got it's data from available open data disponibilized [here](http:/
   - Matplotlib.pyplot as plt
   - Tkinter as tk
 
+## Youtube link for the Explanation video
+*https://youtu.be/i_h2HwNJygQ*
+
 ## TODO
 
 - [x] Work Value Analysis
 - [x] Work Time Analysis
 - [x] Work Resquest Analysis
 - [x] Graphics
+- [x] Explanation Video
 
 ## Authorship
 
