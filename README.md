@@ -1,4 +1,4 @@
-# Finanças UFRN
+# UFRN Constructions's Finances
 
 ## Description
 Repository containing financial analyzes related to the Universidade Federal do Rio Grande do Norte. Done as asked by my professor at UFRN([UFRN](www.ufrn.br)).
@@ -8,14 +8,14 @@ This Analysis was done using `Python 3.6`, make sure you have the same python ve
 
 ## TODO
 
-- [] Work Value Analysis ( Almost Done)
-- [] Work Time Analysis
-- [] Work Resquest Analysis
-- [] Graphics
+- [x] Work Value Analysis
+- [x] Work Time Analysis
+- [x] Work Resquest Analysis
+- [x] Graphics
 
 ## Authorship
 
-Program developed by _Daniel Oliveira Guerra_ (*daniel.guerra13@hotmail.com*),  _Oziel Alves_ (*ozielalves@ufrn.edu.br*) and _Max Willian_ (*MAX O TEU EMAIL*), 2018.1
+Program developed by _Daniel Oliveira Guerra_ (*daniel.guerra13@hotmail.com*),  _Oziel Alves_ (*ozielalves@ufrn.edu.br*) and _Max Willian_ (**), 2018.1
 
 &copy; IMD/UFRN 2018.
 
