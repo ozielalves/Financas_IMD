@@ -6,6 +6,13 @@ Repository containing financial analyzes related to the Universidade Federal do 
 ## Implementation and Reproduction 
 This Analysis was done using `Python 3.6`, make sure you have the same python version and the necessary components mentioned below if you want to reproduce the project on your own device. The project scenario is entirely academic and the data used in the analysis are public privacy.
 
+## Used Libs
+  - Pandas as pd
+  - Numpy as np
+  - Matplotlib.pyplot as plt
+  - From numpy import arange
+  - Tkinter as tk
+
 ## TODO
 
 - [x] Work Value Analysis
