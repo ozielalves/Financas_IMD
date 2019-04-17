@@ -28,7 +28,7 @@ This project got it's data from available open data disponibilized [here](http:/
 
 ## Authorship
 
-Program developed by _Daniel Oliveira Guerra_ (*daniel.guerra13@hotmail.com*),  _Oziel Alves_ (*ozielalves@ufrn.edu.br*) and _Max Willian_ (*maxwilliam780@gmail.com*), 2018.1
+Notebook developed by _Daniel Oliveira Guerra_ (*daniel.guerra13@hotmail.com*),  _Oziel Alves_ (*ozielalves@ufrn.edu.br*) and _Max Willian_ (*maxwilliam780@gmail.com*), 2018.2
 
 &copy; IMD/UFRN 2018.
 
